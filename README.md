@@ -1,5 +1,5 @@
 # 自己紹介
-<img src="img/selfy.jpg" width=200>
+<img src="img/selfy.JPG" width=200>
 <a href="https://www.credly.com/users/ryusuke-oyama/badges"><img src="img/aws-certified-solutions-architect-associate.png" width=150><img src="img/aws-certified-solutions-architect-professional.png" width=150></a>
 
 都内在住クラウドエンジニア、香川県出身の２７歳です。
