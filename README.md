@@ -2,7 +2,7 @@
 <img src="img/selfy.jpg" width=200>
 <a href="https://www.credly.com/users/ryusuke-oyama/badges"><img src="img/aws-certified-solutions-architect-associate.png" width=150><img src="img/aws-certified-solutions-architect-professional.png" width=150></a>
 
-クラウドエンジニア、香川県出身の２７歳です。
+都内在住クラウドエンジニア、香川県出身の２７歳です。
 
 普段はブログ書いたり、勉強会を開いたりしております。
 
@@ -41,4 +41,4 @@
 | '17/4 ~ '19/10 | 家電量販店での通信端末販売員 |
 | '13/4 ~ '17/3　| 岡山理科大学理学部科学科卒 |
 
-※ 社名などは伏せております。
+※ 社名は伏せております。詳細は必要に応じて公開いたします。
