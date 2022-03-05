@@ -1,6 +1,6 @@
 # 自己紹介
-<img src="img/selfy.JPG" width=200>
-<a href="https://www.credly.com/users/ryusuke-oyama/badges"><img src="img/aws-certified-solutions-architect-associate.png" width=150><img src="img/aws-certified-solutions-architect-professional.png" width=150></a>
+<img src="img/selfy.JPG" width=150>
+
 
 都内在住クラウドエンジニア、香川県出身の２７歳です。
 
@@ -15,20 +15,26 @@
 
 # スキル
 
-## 【実務】
 <!-- バッヂはここから　https://shields.io -->
-![![AzureAD]](https://img.shields.io/static/v1?label=&message=AzureAD&color=blue&style=for-the-badge&logo=microsoftazure)
-![![Intune]](https://img.shields.io/static/v1?label=&message=Intune&color=blueviolet&style=for-the-badge&logo=springsecurity&logoColor=white)
-![![AWS]](https://img.shields.io/static/v1?label=&message=AWS&color=black&style=for-the-badge&logo=amazonaws&logoColor=orange)
+## 【資格📖】
+✨
+<a href="https://www.credly.com/users/ryusuke-oyama/badges"><img src="img/aws-certified-solutions-architect-associate.png" width=70><img src="img/aws-certified-solutions-architect-professional.png" width=70></a>
+✨
+## 【実務🚀】
+✨
+![](https://img.shields.io/static/v1?label=&message=AzureAD&color=blue&style=for-the-badge&logo=microsoftazure)
+![](https://img.shields.io/static/v1?label=&message=Intune&color=blueviolet&style=for-the-badge&logo=springsecurity&logoColor=white)
+![](https://img.shields.io/static/v1?label=&message=AWS&color=black&style=for-the-badge&logo=amazonaws&logoColor=orange)
+✨
 
-## 【独学】
+## 【独学💪】
+✨
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-
+![](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+✨
 ---
 # 略歴
 
