@@ -18,7 +18,7 @@
 <!-- バッヂはここから　https://shields.io -->
 ## 【資格📖】
 ✨
-<a href="https://www.credly.com/users/ryusuke-oyama/badges"><img src="img/aws-certified-solutions-architect-associate.png" width=70><img src="img/aws-certified-solutions-architect-professional.png" width=70></a>
+<a href="https://www.credly.com/users/ryusuke-oyama/badges"><img src="img/aws-certified-solutions-architect-associate.png" width=90><img src="img/aws-certified-solutions-architect-professional.png" width=90></a>
 ✨
 ## 【実務🚀】
 ✨
