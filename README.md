@@ -24,7 +24,7 @@
 ✨
 ![](https://img.shields.io/static/v1?label=&message=AzureAD&color=blue&style=for-the-badge&logo=microsoftazure)
 ![](https://img.shields.io/static/v1?label=&message=Intune&color=blueviolet&style=for-the-badge&logo=springsecurity&logoColor=white)
-![](https://img.shields.io/static/v1?label=&message=AWS&color=black&style=for-the-badge&logo=azure&logoColor=blue)
+![](https://img.shields.io/static/v1?label=&message=AWS&color=black&style=for-the-badge&logo=amazonaws&logoColor=orange)
 ✨
 
 ## 【独学💪】
