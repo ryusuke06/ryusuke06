@@ -24,7 +24,7 @@
 ✨
 ![](https://img.shields.io/static/v1?label=&message=AzureAD&color=blue&style=for-the-badge&logo=microsoftazure)
 ![](https://img.shields.io/static/v1?label=&message=Intune&color=blueviolet&style=for-the-badge&logo=springsecurity&logoColor=white)
-![](https://img.shields.io/static/v1?label=&message=AWS&color=black&style=for-the-badge&logo=amazonaws&logoColor=orange)
+![](https://img.shields.io/static/v1?label=&message=AWS&color=black&style=for-the-badge&logo=azure&logoColor=blue)
 ✨
 
 ## 【独学💪】
@@ -36,6 +36,7 @@
 ![](https://img.shields.io/static/v1?label=&message=Java&color=007396&style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/static/v1?label=&message=Ruby&color=CC342D&style=for-the-badge&logo=ruby&logoColor=white)
 ![](https://img.shields.io/static/v1?label=&message=PHP&color=777BB4&style=for-the-badge&logo=php&logoColor=black)
+![](https://img.shields.io/static/v1?label=&message=AWS&color=black&style=for-the-badge&logo=amazonaws&logoColor=orange)
 ✨
 
 ✨
